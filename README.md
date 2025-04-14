@@ -15,7 +15,7 @@ El proyecto utiliza **Java puro** con **JDK 24** y se desarrolla en **IntelliJ I
 
 ## Estructura del Proyecto
 
-La estructura recomendada del proyecto es la siguiente:
+La estructura del proyecto es la siguiente:
 
 ```
 NominaApp/ 
